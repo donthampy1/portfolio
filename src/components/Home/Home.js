@@ -21,7 +21,7 @@ function Home() {
             </h1>
             <h2 style={{marginBottom:'15px'}}>A full Stack web dev</h2>
             <p    style={{fontSize:'20px'}}>
-            Enthusiastic MERN stack developer seeking to leverage my skills in building dynamic web applications. I'm passionate about crafting user-friendly interfaces and robust backends, and I'm eager to contribute to a team that values innovation.
+            Enthusiastic MERN stack developer seeking to leverage my skills in building dynamic web applications. I'm passionate about crafting user-friendly interfaces and robust backends, and I'm eager to contribute to a team that values innovation and growth.
             </p>
           </Grid>
           <Grid item xs={12} md={6}  
